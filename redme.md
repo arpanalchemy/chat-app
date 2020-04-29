@@ -12,3 +12,9 @@ commands list
 * `heroku create` 
 * `git push heroku master`
 * `heroku open`
+
+
+// io.emit() - sends to everyone along with sender
+
+// socket.broadcast.emit() - sends to everyone excluding the sender
+
